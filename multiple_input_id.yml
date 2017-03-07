@@ -1,0 +1,5 @@
+multiple_input:
+  - class: File
+    path: file1
+  - class: File
+    path: file2
